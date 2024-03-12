@@ -49,3 +49,8 @@ TRIP_CATEGORIES = [
     ('paragliding', 'Paragliding'),
     ('polar_expedition', 'Polar Expedition'),
 ]
+
+LIKE_CHOICES = [
+    ('like', 'like'),
+    ('dislike', 'dislike'),
+]

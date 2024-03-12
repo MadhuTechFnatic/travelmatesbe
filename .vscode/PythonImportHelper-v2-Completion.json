@@ -1,5 +1,38 @@
 [
     {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -129,6 +162,142 @@
     },
     {
         "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -205,6 +374,22 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
         "documentation": {}
     },
     {
@@ -233,14 +418,6 @@
     },
     {
         "label": "filters",
-        "importPath": "rest_framework",
-        "description": "rest_framework",
-        "isExtraImport": true,
-        "detail": "rest_framework",
-        "documentation": {}
-    },
-    {
-        "label": "pagination",
         "importPath": "rest_framework",
         "description": "rest_framework",
         "isExtraImport": true,
@@ -312,6 +489,22 @@
         "documentation": {}
     },
     {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -397,6 +590,22 @@
         "description": "rest_framework.response",
         "isExtraImport": true,
         "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
         "documentation": {}
     },
     {
@@ -424,76 +633,180 @@
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "json",
+        "label": "django.db.models.deletion",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "json",
-        "description": "json",
-        "detail": "json",
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
         "documentation": {}
     },
     {
-        "label": "Trip",
-        "importPath": "Trips.models",
-        "description": "Trips.models",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "Trips.models",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
-        "label": "Trip",
-        "importPath": "Trips.models",
-        "description": "Trips.models",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "Trips.models",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
-        "label": "Trip",
-        "importPath": "Trips.models",
-        "description": "Trips.models",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "Trips.models",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
-        "label": "fake_trips",
-        "importPath": "FakeDataGenarator.fake_data",
-        "description": "FakeDataGenarator.fake_data",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "FakeDataGenarator.fake_data",
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Creation",
+        "importPath": "helper.models",
+        "description": "helper.models",
+        "isExtraImport": true,
+        "detail": "helper.models",
+        "documentation": {}
+    },
+    {
+        "label": "Creation",
+        "importPath": "helper.models",
+        "description": "helper.models",
+        "isExtraImport": true,
+        "detail": "helper.models",
+        "documentation": {}
+    },
+    {
+        "label": "UIID",
+        "importPath": "helper.models",
+        "description": "helper.models",
+        "isExtraImport": true,
+        "detail": "helper.models",
+        "documentation": {}
+    },
+    {
+        "label": "Creation",
+        "importPath": "helper.models",
+        "description": "helper.models",
+        "isExtraImport": true,
+        "detail": "helper.models",
+        "documentation": {}
+    },
+    {
+        "label": "UIID",
+        "importPath": "helper.models",
+        "description": "helper.models",
+        "isExtraImport": true,
+        "detail": "helper.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "Users.models",
+        "description": "Users.models",
+        "isExtraImport": true,
+        "detail": "Users.models",
         "documentation": {}
     },
     {
@@ -521,11 +834,245 @@
         "documentation": {}
     },
     {
+        "label": "Follow",
+        "importPath": "Users.models",
+        "description": "Users.models",
+        "isExtraImport": true,
+        "detail": "Users.models",
+        "documentation": {}
+    },
+    {
         "label": "User",
         "importPath": "Users.models",
         "description": "Users.models",
         "isExtraImport": true,
         "detail": "Users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "Users.models",
+        "description": "Users.models",
+        "isExtraImport": true,
+        "detail": "Users.models",
+        "documentation": {}
+    },
+    {
+        "label": "humanize",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "humanize",
+        "description": "humanize",
+        "detail": "humanize",
+        "documentation": {}
+    },
+    {
+        "label": "Ping",
+        "importPath": "Extra.models",
+        "description": "Extra.models",
+        "isExtraImport": true,
+        "detail": "Extra.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ping",
+        "importPath": "Extra.models",
+        "description": "Extra.models",
+        "isExtraImport": true,
+        "detail": "Extra.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ping",
+        "importPath": "Extra.models",
+        "description": "Extra.models",
+        "isExtraImport": true,
+        "detail": "Extra.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ping",
+        "importPath": "Extra.models",
+        "description": "Extra.models",
+        "isExtraImport": true,
+        "detail": "Extra.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFullDetailsSerializer",
+        "importPath": "Users.serializers",
+        "description": "Users.serializers",
+        "isExtraImport": true,
+        "detail": "Users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserFullDetailsSerializer",
+        "importPath": "Users.serializers",
+        "description": "Users.serializers",
+        "isExtraImport": true,
+        "detail": "Users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PingsListView",
+        "importPath": "Extra.views",
+        "description": "Extra.views",
+        "isExtraImport": true,
+        "detail": "Extra.views",
+        "documentation": {}
+    },
+    {
+        "label": "PingsSetSeenView",
+        "importPath": "Extra.views",
+        "description": "Extra.views",
+        "isExtraImport": true,
+        "detail": "Extra.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "RetrieveAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListCreateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "CreateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "PingSerializer",
+        "importPath": "Extra.serializers",
+        "description": "Extra.serializers",
+        "isExtraImport": true,
+        "detail": "Extra.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Trip",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripComment",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripLike",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripRequest",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "isExtraImport": true,
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "fake_trips",
+        "importPath": "FakeDataGenarator.fake_data",
+        "description": "FakeDataGenarator.fake_data",
+        "isExtraImport": true,
+        "detail": "FakeDataGenarator.fake_data",
         "documentation": {}
     },
     {
@@ -605,38 +1152,6 @@
         "documentation": {}
     },
     {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
-        "documentation": {}
-    },
-    {
         "label": "static",
         "importPath": "django.conf.urls.static",
         "description": "django.conf.urls.static",
@@ -650,15 +1165,6 @@
         "description": "django.core.wsgi",
         "isExtraImport": true,
         "detail": "django.core.wsgi",
-        "documentation": {}
-    },
-    {
-        "label": "django.db.models.deletion",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "django.db.models.deletion",
-        "description": "django.db.models.deletion",
-        "detail": "django.db.models.deletion",
         "documentation": {}
     },
     {
@@ -695,27 +1201,11 @@
         "documentation": {}
     },
     {
-        "label": "Creation",
-        "importPath": "helper.models",
-        "description": "helper.models",
+        "label": "LIKE_CHOICES",
+        "importPath": "helper.choices",
+        "description": "helper.choices",
         "isExtraImport": true,
-        "detail": "helper.models",
-        "documentation": {}
-    },
-    {
-        "label": "UIID",
-        "importPath": "helper.models",
-        "description": "helper.models",
-        "isExtraImport": true,
-        "detail": "helper.models",
-        "documentation": {}
-    },
-    {
-        "label": "Creation",
-        "importPath": "helper.models",
-        "description": "helper.models",
-        "isExtraImport": true,
-        "detail": "helper.models",
+        "detail": "helper.choices",
         "documentation": {}
     },
     {
@@ -743,11 +1233,60 @@
         "documentation": {}
     },
     {
+        "label": "django.contrib.humanize.templatetags.humanize",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.humanize.templatetags.humanize",
+        "description": "django.contrib.humanize.templatetags.humanize",
+        "detail": "django.contrib.humanize.templatetags.humanize",
+        "documentation": {}
+    },
+    {
         "label": "naturaltime",
         "importPath": "django.contrib.humanize.templatetags.humanize",
         "description": "django.contrib.humanize.templatetags.humanize",
         "isExtraImport": true,
         "detail": "django.contrib.humanize.templatetags.humanize",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
         "documentation": {}
     },
     {
@@ -759,7 +1298,15 @@
         "documentation": {}
     },
     {
-        "label": "TripSerializer",
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
         "importPath": "Trips.serializers",
         "description": "Trips.serializers",
         "isExtraImport": true,
@@ -767,19 +1314,11 @@
         "documentation": {}
     },
     {
-        "label": "RetrieveAPIView",
-        "importPath": "rest_framework.generics",
-        "description": "rest_framework.generics",
+        "label": "TripSerializer",
+        "importPath": "Trips.serializers",
+        "description": "Trips.serializers",
         "isExtraImport": true,
-        "detail": "rest_framework.generics",
-        "documentation": {}
-    },
-    {
-        "label": "CreateAPIView",
-        "importPath": "rest_framework.generics",
-        "description": "rest_framework.generics",
-        "isExtraImport": true,
-        "detail": "rest_framework.generics",
+        "detail": "Trips.serializers",
         "documentation": {}
     },
     {
@@ -828,6 +1367,14 @@
         "description": "rest_framework_simplejwt.tokens",
         "isExtraImport": true,
         "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "UserTripsView",
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "isExtraImport": true,
+        "detail": "Trips.views",
         "documentation": {}
     },
     {
@@ -937,6 +1484,69 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Extra.migrations.0001_initial",
+        "description": "Extra.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Ping',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "Extra.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ExtraConfig",
+        "kind": 6,
+        "importPath": "Extra.apps",
+        "description": "Extra.apps",
+        "peekOfCode": "class ExtraConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Extra'",
+        "detail": "Extra.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Ping",
+        "kind": 6,
+        "importPath": "Extra.models",
+        "description": "Extra.models",
+        "peekOfCode": "class Ping(Creation):\n    label = models.CharField(max_length=250)\n    redirect_path = models.CharField(max_length=250)\n    user = models.ForeignKey(User, related_name = 'user_pings', to_field = 'email', on_delete=models.CASCADE)\n    user_by = models.ForeignKey(User, to_field = 'email', on_delete=models.CASCADE)\n    is_seen = models.BooleanField(default=False)",
+        "detail": "Extra.models",
+        "documentation": {}
+    },
+    {
+        "label": "PingSerializer",
+        "kind": 6,
+        "importPath": "Extra.serializers",
+        "description": "Extra.serializers",
+        "peekOfCode": "class PingSerializer(serializers.ModelSerializer):\n    def __init__(self, *args, **kwargs):\n        # Extract the context from the keyword arguments\n        context = kwargs.get('context', None)\n        # Call the super constructor\n        super().__init__(*args, **kwargs)\n        # Pass the context to the nested serializer\n        if context:\n            self.fields['user_by'] = UserFullDetailsSerializer(context=context)\n    user_by = UserFullDetailsSerializer(read_only = True)",
+        "detail": "Extra.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Extra.urls",
+        "description": "Extra.urls",
+        "peekOfCode": "urlpatterns = [\n    path('pings', PingsListView.as_view()),\n    path('pings-set-seen', PingsSetSeenView.as_view())\n]",
+        "detail": "Extra.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PingsListView",
+        "kind": 6,
+        "importPath": "Extra.views",
+        "description": "Extra.views",
+        "peekOfCode": "class PingsListView(ListAPIView):\n    serializer_class = PingSerializer\n    queryset = Ping.objects.all()\n    def get(self, request):\n        user = request.user\n        pings = Ping.objects.filter(user=user, is_seen = False)\n        data = self.get_serializer(pings, many = True).data\n        return Response(data, 200)\nclass PingsSetSeenView(UpdateAPIView):\n    serializer_class = PingSerializer",
+        "detail": "Extra.views",
+        "documentation": {}
+    },
+    {
+        "label": "PingsSetSeenView",
+        "kind": 6,
+        "importPath": "Extra.views",
+        "description": "Extra.views",
+        "peekOfCode": "class PingsSetSeenView(UpdateAPIView):\n    serializer_class = PingSerializer\n    queryset = Ping.objects.all()\n    def update(self, request):\n        user = request.user\n        pings = Ping.objects.filter(user=user, is_seen = False)\n        pings.update(is_seen = True)\n        return Response(None, 200)",
+        "detail": "Extra.views",
+        "documentation": {}
+    },
+    {
         "label": "FakedatagenaratorConfig",
         "kind": 6,
         "importPath": "FakeDataGenarator.apps",
@@ -987,6 +1597,15 @@
         "importPath": "helper.choices",
         "description": "helper.choices",
         "peekOfCode": "TRIP_CATEGORIES = [\n    ('adventure', 'Adventure'),\n    ('education', 'Education'),\n    ('cultural', 'Cultural'),\n    ('nature', 'Nature'),\n    ('wellness', 'Wellness'),\n    ('historical', 'Historical'),\n    ('culinary', 'Culinary'),\n    ('volunteer', 'Volunteer'),\n    ('wildlife', 'Wildlife'),",
+        "detail": "helper.choices",
+        "documentation": {}
+    },
+    {
+        "label": "LIKE_CHOICES",
+        "kind": 5,
+        "importPath": "helper.choices",
+        "description": "helper.choices",
+        "peekOfCode": "LIKE_CHOICES = [\n    ('like', 'like'),\n    ('dislike', 'dislike'),\n]",
         "detail": "helper.choices",
         "documentation": {}
     },
@@ -1112,7 +1731,7 @@
         "kind": 5,
         "importPath": "travelmatesb.settings",
         "description": "travelmatesb.settings",
-        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n   \"http://localhost:3000\",\n   \"http://localhost:8000\"\n]\nCORS_ALLOW_METHODS = (\n    \"DELETE\",\n    \"GET\",\n    \"OPTIONS\",\n    \"PATCH\",\n    \"POST\",",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n   \"http://localhost:3000\",\n   \"http://localhost:8000\"\n]\nCORS_ALLOW_METHODS = (\n    \"DELETE\",\n    \"GET\",\n    \"OPTIONS\",\n    \"PATCH\",\n    \"PUT\",",
         "detail": "travelmatesb.settings",
         "documentation": {}
     },
@@ -1121,7 +1740,7 @@
         "kind": 5,
         "importPath": "travelmatesb.settings",
         "description": "travelmatesb.settings",
-        "peekOfCode": "CORS_ALLOW_METHODS = (\n    \"DELETE\",\n    \"GET\",\n    \"OPTIONS\",\n    \"PATCH\",\n    \"POST\",\n)\nROOT_URLCONF = 'travelmatesb.urls'\nTEMPLATES = [\n    {",
+        "peekOfCode": "CORS_ALLOW_METHODS = (\n    \"DELETE\",\n    \"GET\",\n    \"OPTIONS\",\n    \"PATCH\",\n    \"PUT\",\n    \"POST\",\n)\nROOT_URLCONF = 'travelmatesb.urls'\nTEMPLATES = [",
         "detail": "travelmatesb.settings",
         "documentation": {}
     },
@@ -1283,7 +1902,7 @@
         "kind": 5,
         "importPath": "travelmatesb.urls",
         "description": "travelmatesb.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/users/', include('Users.urls')),\n    path('api/',include('Trips.urls')),\n    path('api/explore/',include('Explore.urls')),\n    path('fake_data/',include('FakeDataGenarator.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/users/', include('Users.urls')),\n    path('api/',include('Trips.urls')),\n    path('api/explore/',include('Explore.urls')),\n    path('api/extra/',include('Extra.urls')),\n    path('fake_data/',include('FakeDataGenarator.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
         "detail": "travelmatesb.urls",
         "documentation": {}
     },
@@ -1351,11 +1970,74 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0007_tripcomment_triplike_tripreplycomment_triprequest",
+        "description": "Trips.migrations.0007_tripcomment_triplike_tripreplycomment_triprequest",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0006_trip_trip_cover_img_alter_trip_group_size'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='TripComment',\n            fields=[\n                ('created_at', models.DateTimeField(auto_now_add=True)),",
+        "detail": "Trips.migrations.0007_tripcomment_triplike_tripreplycomment_triprequest",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0008_alter_tripcomment_user_alter_triplike_user_and_more",
+        "description": "Trips.migrations.0008_alter_tripcomment_user_alter_triplike_user_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0007_tripcomment_triplike_tripreplycomment_triprequest'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='tripcomment',\n            name='user',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='commented_trips', to=settings.AUTH_USER_MODEL, to_field='email'),",
+        "detail": "Trips.migrations.0008_alter_tripcomment_user_alter_triplike_user_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0009_triplike_dis_like",
+        "description": "Trips.migrations.0009_triplike_dis_like",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0008_alter_tripcomment_user_alter_triplike_user_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='triplike',\n            name='dis_like',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "Trips.migrations.0009_triplike_dis_like",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0010_remove_triplike_dis_like_triplike_status",
+        "description": "Trips.migrations.0010_remove_triplike_dis_like_triplike_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0009_triplike_dis_like'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='triplike',\n            name='dis_like',\n        ),\n        migrations.AddField(",
+        "detail": "Trips.migrations.0010_remove_triplike_dis_like_triplike_status",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0011_remove_trip_likes",
+        "description": "Trips.migrations.0011_remove_trip_likes",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0010_remove_triplike_dis_like_triplike_status'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='trip',\n            name='likes',\n        ),\n    ]",
+        "detail": "Trips.migrations.0011_remove_trip_likes",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0012_trip_is_published_remove_trip_connected_users_and_more",
+        "description": "Trips.migrations.0012_trip_is_published_remove_trip_connected_users_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0011_remove_trip_likes'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='trip',\n            name='is_published',\n            field=models.BooleanField(default=False),",
+        "detail": "Trips.migrations.0012_trip_is_published_remove_trip_connected_users_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Trips.migrations.0013_alter_trip_category",
+        "description": "Trips.migrations.0013_alter_trip_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Trips', '0012_trip_is_published_remove_trip_connected_users_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='trip',\n            name='category',\n            field=models.CharField(max_length=30),\n        ),",
+        "detail": "Trips.migrations.0013_alter_trip_category",
+        "documentation": {}
+    },
+    {
         "label": "TripsConfig",
         "kind": 6,
         "importPath": "Trips.apps",
         "description": "Trips.apps",
-        "peekOfCode": "class TripsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Trips'",
+        "peekOfCode": "class TripsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Trips'\n    def ready(self):\n        from . import signals",
         "detail": "Trips.apps",
         "documentation": {}
     },
@@ -1364,7 +2046,43 @@
         "kind": 6,
         "importPath": "Trips.models",
         "description": "Trips.models",
-        "peekOfCode": "class Trip(Creation, UIID):\n    title = models.CharField(max_length=100)\n    address_from = models.CharField(max_length=100)\n    address_to = models.CharField(max_length=100)\n    trip_cover_img = models.ImageField(upload_to='trip_cover_images', null=True, blank=True, validators=[validate_trip_image_size])\n    category = models.CharField(max_length=30, choices=TRIP_CATEGORIES)\n    date = models.DateField()\n    time = models.TimeField()\n    group_size = models.SmallIntegerField(default=2)\n    distance = models.IntegerField(null=True)",
+        "peekOfCode": "class Trip(Creation, UIID):\n    title = models.CharField(max_length=100)\n    address_from = models.CharField(max_length=100)\n    address_to = models.CharField(max_length=100)\n    trip_cover_img = models.ImageField(upload_to='trip_cover_images', null=True, blank=True, validators=[validate_trip_image_size])\n    category = models.CharField(max_length=30)\n    date = models.DateField()\n    time = models.TimeField()\n    group_size = models.SmallIntegerField(default=2)\n    distance = models.IntegerField(null=True)",
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripLike",
+        "kind": 6,
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "peekOfCode": "class TripLike(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_likes', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'liked_trips', to_field = 'email', on_delete = models.CASCADE)\n    status = models.CharField(max_length = 10, choices = LIKE_CHOICES, default = 'like')\nclass TripComment(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_comments', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'commented_trips', to_field = 'email', on_delete = models.CASCADE)\n    comment = models.TextField()\nclass TripReplyComment(Creation, UIID):\n    comment = models.ForeignKey(TripComment, related_name = 'trip_comments_replies', on_delete = models.CASCADE)",
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripComment",
+        "kind": 6,
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "peekOfCode": "class TripComment(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_comments', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'commented_trips', to_field = 'email', on_delete = models.CASCADE)\n    comment = models.TextField()\nclass TripReplyComment(Creation, UIID):\n    comment = models.ForeignKey(TripComment, related_name = 'trip_comments_replies', on_delete = models.CASCADE)\n    reply_comment = models.ForeignKey(TripComment, related_name = 'replied_comments', on_delete = models.CASCADE)\nclass TripRequest(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_requests', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'requested_trips', to_field = 'email', on_delete = models.CASCADE)",
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripReplyComment",
+        "kind": 6,
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "peekOfCode": "class TripReplyComment(Creation, UIID):\n    comment = models.ForeignKey(TripComment, related_name = 'trip_comments_replies', on_delete = models.CASCADE)\n    reply_comment = models.ForeignKey(TripComment, related_name = 'replied_comments', on_delete = models.CASCADE)\nclass TripRequest(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_requests', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'requested_trips', to_field = 'email', on_delete = models.CASCADE)\n    is_accepted = models.BooleanField(default=False)",
+        "detail": "Trips.models",
+        "documentation": {}
+    },
+    {
+        "label": "TripRequest",
+        "kind": 6,
+        "importPath": "Trips.models",
+        "description": "Trips.models",
+        "peekOfCode": "class TripRequest(Creation, UIID):\n    trip = models.ForeignKey(Trip, related_name = 'trip_requests', on_delete = models.CASCADE)\n    user = models.ForeignKey(User, related_name = 'requested_trips', to_field = 'email', on_delete = models.CASCADE)\n    is_accepted = models.BooleanField(default=False)",
         "detail": "Trips.models",
         "documentation": {}
     },
@@ -1373,8 +2091,62 @@
         "kind": 6,
         "importPath": "Trips.serializers",
         "description": "Trips.serializers",
-        "peekOfCode": "class TripSerializer(serializers.ModelSerializer):\n    human_readable_time = serializers.SerializerMethodField(read_only=True)\n    user_name = serializers.CharField(required=False)\n    comments = serializers.IntegerField(required=False)\n    likes = serializers.IntegerField(required=False)\n    requests = serializers.IntegerField(required=False)\n    connected_users = serializers.IntegerField(required=False)\n    time = serializers.TimeField(format = '%I:%M %p')\n    def get_human_readable_time(self, obj):\n        # Convert date to datetime object",
+        "peekOfCode": "class TripSerializer(serializers.ModelSerializer):\n    def __init__(self, *args, **kwargs):\n        # Extract the context from the keyword arguments\n        context = kwargs.get('context', None)\n        # Call the super constructor\n        super().__init__(*args, **kwargs)\n        # Pass the context to the nested serializer\n        if context:\n            self.fields['trip_user'] = UserFullDetailsSerializer(read_only = True, context=context)\n    trip_user = UserFullDetailsSerializer(read_only = True)",
         "detail": "Trips.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TripLikeSerializer",
+        "kind": 6,
+        "importPath": "Trips.serializers",
+        "description": "Trips.serializers",
+        "peekOfCode": "class TripLikeSerializer(serializers.ModelSerializer):\n    def __init__(self, *args, **kwargs):\n        # Extract the context from the keyword arguments\n        context = kwargs.get('context', None)\n        # Call the super constructor\n        super().__init__(*args, **kwargs)\n        # Pass the context to the nested serializer\n        if context:\n            self.fields['user'] = UserFullDetailsSerializer(context=context)\n    user = UserFullDetailsSerializer(read_only = True)",
+        "detail": "Trips.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TripCommentSerializer",
+        "kind": 6,
+        "importPath": "Trips.serializers",
+        "description": "Trips.serializers",
+        "peekOfCode": "class TripCommentSerializer(serializers.ModelSerializer):\n    def __init__(self, *args, **kwargs):\n        # Extract the context from the keyword arguments\n        context = kwargs.get('context', None)\n        # Call the super constructor\n        super().__init__(*args, **kwargs)\n        # Pass the context to the nested serializer\n        if context:\n            self.fields['user'] = UserFullDetailsSerializer(context=context)\n    replies = serializers.SerializerMethodField(read_only = True)",
+        "detail": "Trips.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TripRequestSerializer",
+        "kind": 6,
+        "importPath": "Trips.serializers",
+        "description": "Trips.serializers",
+        "peekOfCode": "class TripRequestSerializer(serializers.ModelSerializer):\n    def __init__(self, *args, **kwargs):\n        # Extract the context from the keyword arguments\n        context = kwargs.get('context', None)\n        # Call the super constructor\n        super().__init__(*args, **kwargs)\n        # Pass the context to the nested serializer\n        if context:\n            self.fields['user'] = UserFullDetailsSerializer(context=context)\n    user = UserFullDetailsSerializer(read_only = True)",
+        "detail": "Trips.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "create_like_ping",
+        "kind": 2,
+        "importPath": "Trips.signals",
+        "description": "Trips.signals",
+        "peekOfCode": "def create_like_ping(instance, **kwargs):\n    trip = instance.trip\n    status = instance.status\n    Ping.objects.create(\n        user = trip.user,\n        user_by = instance.user,\n        redirect_path = 'p',\n        label = f\"{instance.user.user_details.nick_name} {'Liked' if status == 'like' else 'Disliked'} your '{trip.title}' trip\"\n    )\n@receiver(post_save, sender=TripComment)",
+        "detail": "Trips.signals",
+        "documentation": {}
+    },
+    {
+        "label": "create_comment_ping",
+        "kind": 2,
+        "importPath": "Trips.signals",
+        "description": "Trips.signals",
+        "peekOfCode": "def create_comment_ping(instance, **kwargs):\n    trip = instance.trip\n    Ping.objects.create(\n        user = trip.user,\n        user_by = instance.user,\n        redirect_path = 'p',\n        label = f\"{instance.user.user_details.nick_name} Commented on your '{trip.title}' trip\"\n    )\n@receiver(post_save, sender=TripRequest)\ndef create_comment_ping(instance, **kwargs):",
+        "detail": "Trips.signals",
+        "documentation": {}
+    },
+    {
+        "label": "create_comment_ping",
+        "kind": 2,
+        "importPath": "Trips.signals",
+        "description": "Trips.signals",
+        "peekOfCode": "def create_comment_ping(instance, **kwargs):\n    trip = instance.trip\n    Ping.objects.create(\n        user = trip.user,\n        user_by = instance.user,\n        redirect_path = 'p',\n        label = f\"{instance.user.user_details.nick_name} Requested to join your '{trip.title}' trip\"\n    )",
+        "detail": "Trips.signals",
         "documentation": {}
     },
     {
@@ -1382,7 +2154,7 @@
         "kind": 5,
         "importPath": "Trips.urls",
         "description": "Trips.urls",
-        "peekOfCode": "router = DefaultRouter()\nrouter.register('trips', TripViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('trips/meta/categories', TripCategoriesView.as_view()),\n]",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('trips', TripViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('trips/likes/<pk>', TripLikeView.as_view()),\n    path('trips/comments/<pk>', TripCommentView.as_view()),\n    path('trips/requests/<pk>', TripRequestView.as_view()),\n    path('trips/requests/accept-reject/<request_pk>', TripRequestAcceptRejectView.as_view()),\n    path('trips/meta/categories', TripCategoriesView.as_view()),\n]",
         "detail": "Trips.urls",
         "documentation": {}
     },
@@ -1391,7 +2163,7 @@
         "kind": 5,
         "importPath": "Trips.urls",
         "description": "Trips.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    path('trips/meta/categories', TripCategoriesView.as_view()),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    path('trips/likes/<pk>', TripLikeView.as_view()),\n    path('trips/comments/<pk>', TripCommentView.as_view()),\n    path('trips/requests/<pk>', TripRequestView.as_view()),\n    path('trips/requests/accept-reject/<request_pk>', TripRequestAcceptRejectView.as_view()),\n    path('trips/meta/categories', TripCategoriesView.as_view()),\n]",
         "detail": "Trips.urls",
         "documentation": {}
     },
@@ -1414,6 +2186,51 @@
         "documentation": {}
     },
     {
+        "label": "TripLikeView",
+        "kind": 6,
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "peekOfCode": "class TripLikeView(RetrieveAPIView, UpdateAPIView):\n    serializer_class = TripLikeSerializer\n    queryset = TripLike.objects.all()\n    def retrieve(self, request, pk):\n        trip = Trip.objects.get(pk = pk)\n        likes = trip.trip_likes.all()\n        if likes.count() == 0:\n            return Response([])\n        data = self.get_serializer(likes).data\n        return Response(data)",
+        "detail": "Trips.views",
+        "documentation": {}
+    },
+    {
+        "label": "TripCommentView",
+        "kind": 6,
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "peekOfCode": "class TripCommentView(ListCreateAPIView):\n    serializer_class = TripCommentSerializer\n    queryset = TripComment.objects.all()         \n    def get(self, request, pk):\n        trip = Trip.objects.get(pk=pk)\n        comments = trip.trip_comments.all()\n        data = self.get_serializer(comments, many = True).data \n        return Response(data, 200)     \n    def post(self, request, pk):\n        trip = Trip.objects.get(pk=pk)",
+        "detail": "Trips.views",
+        "documentation": {}
+    },
+    {
+        "label": "TripRequestView",
+        "kind": 6,
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "peekOfCode": "class TripRequestView(ListCreateAPIView):\n    serializer_class = TripRequestSerializer\n    queryset = TripRequest.objects.all()         \n    def get(self, request, pk):\n        trip = Trip.objects.get(pk=pk)\n        requests = trip.trip_requests.all()\n        data = self.get_serializer(requests, many = True).data \n        return Response(data, 200)     \n    def post(self, request, pk):\n        trip = Trip.objects.get(pk=pk)",
+        "detail": "Trips.views",
+        "documentation": {}
+    },
+    {
+        "label": "TripRequestAcceptRejectView",
+        "kind": 6,
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "peekOfCode": "class TripRequestAcceptRejectView(UpdateAPIView):\n    serializer_class = TripRequestSerializer\n    queryset = TripRequest.objects.all()    \n    def update(self, request, request_pk):\n        action = request.data.get('action')\n        trip_request = self.get_queryset().get(pk = request_pk)\n        if action:\n            trip_request.is_accepted = True\n            trip_request.trip.connected_users.add(trip_request.user)\n            trip_request.save()",
+        "detail": "Trips.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserTripsView",
+        "kind": 6,
+        "importPath": "Trips.views",
+        "description": "Trips.views",
+        "peekOfCode": "class UserTripsView(ListAPIView):\n    serializer_class = TripSerializer\n    def get(self, request, email):\n        current_datetime = datetime.datetime.now()\n        user = User.objects.get(email=email)\n        upcoming_trips = user.user_trips.filter(\n            Q(date__gt=current_datetime.date()) | \n            (Q(date=current_datetime.date()) & Q(time__gt=current_datetime.time()))\n        )\n        completed_trips = user.user_trips.filter(",
+        "detail": "Trips.views",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "Users.migrations.0001_initial",
@@ -1423,11 +2240,29 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Users.migrations.0002_alter_userdetail_user",
+        "description": "Users.migrations.0002_alter_userdetail_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Users', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userdetail',\n            name='user',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, related_name='user_details', to=settings.AUTH_USER_MODEL, to_field='email'),\n        ),",
+        "detail": "Users.migrations.0002_alter_userdetail_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Users.migrations.0003_follow",
+        "description": "Users.migrations.0003_follow",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Users', '0002_alter_userdetail_user'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Follow',\n            fields=[\n                ('created_at', models.DateTimeField(auto_now_add=True)),\n                ('uiid', models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False)),",
+        "detail": "Users.migrations.0003_follow",
+        "documentation": {}
+    },
+    {
         "label": "UsersConfig",
         "kind": 6,
         "importPath": "Users.apps",
         "description": "Users.apps",
-        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Users'",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Users'\n    def ready(self):\n        from . import signals",
         "detail": "Users.apps",
         "documentation": {}
     },
@@ -1454,7 +2289,16 @@
         "kind": 6,
         "importPath": "Users.models",
         "description": "Users.models",
-        "peekOfCode": "class UserDetail(Creation):\n    user = models.ForeignKey(User, related_name = 'user_details', to_field = 'email', on_delete = models.CASCADE)\n    nick_name = models.CharField(max_length=50, null=True, blank=True)\n    phone_no = models.CharField(max_length=10, null=True, blank=True)\n    bio = models.TextField()\n    gender = models.CharField(default = 'male' ,max_length=20)\n    profile_pic = models.ImageField(upload_to='profiles', null=True, blank=True, validators=[validate_image_dimensions, validate_image_size])\n    followers = models.PositiveIntegerField(default=0, null=True, blank=True)\n    following = models.PositiveIntegerField(default=0, null=True, blank=True)\n    trips = models.PositiveIntegerField(default=0, null=True, blank = True)",
+        "peekOfCode": "class UserDetail(Creation):\n    user = models.OneToOneField(User, related_name = 'user_details', to_field = 'email', on_delete = models.CASCADE)\n    nick_name = models.CharField(max_length=50, null=True, blank=True)\n    phone_no = models.CharField(max_length=10, null=True, blank=True)\n    bio = models.TextField()\n    gender = models.CharField(default = 'male' ,max_length=20)\n    profile_pic = models.ImageField(upload_to='profiles', null=True, blank=True, validators=[validate_image_dimensions, validate_image_size])\n    followers = models.PositiveIntegerField(default=0, null=True, blank=True)\n    following = models.PositiveIntegerField(default=0, null=True, blank=True)\n    trips = models.PositiveIntegerField(default=0, null=True, blank = True)",
+        "detail": "Users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "kind": 6,
+        "importPath": "Users.models",
+        "description": "Users.models",
+        "peekOfCode": "class Follow(Creation, UIID):\n    user = models.ForeignKey(User, related_name = 'user_followers', to_field = 'email', on_delete = models.CASCADE)\n    follower = models.ForeignKey(User, related_name = 'user_followings', to_field = 'email', on_delete = models.CASCADE)",
         "detail": "Users.models",
         "documentation": {}
     },
@@ -1481,7 +2325,7 @@
         "kind": 6,
         "importPath": "Users.serializers",
         "description": "Users.serializers",
-        "peekOfCode": "class UserDetailSerializer(serializers.ModelSerializer):\n    created_at = serializers.DateTimeField(format='%d %B %Y', read_only=True)\n    class Meta:\n        model = UserDetail\n        fields = '__all__'\nclass UserRegisterSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = ['email', 'password', 'nick_name']",
+        "peekOfCode": "class UserDetailSerializer(serializers.ModelSerializer):\n    created_at = serializers.DateTimeField(format='%B %Y', read_only=True)\n    is_follower_to_current_user = serializers.SerializerMethodField(read_only=True)\n    is_following_by_current_user = serializers.SerializerMethodField(read_only=True)\n    def get_is_following_by_current_user(self, obj):\n        current_user = self.context['request'].user\n        user = obj.user\n        return user.user_followers.filter(follower = current_user).exists()\n    def get_is_follower_to_current_user(self, obj):\n        current_user = self.context['request'].user",
         "detail": "Users.serializers",
         "documentation": {}
     },
@@ -1495,6 +2339,24 @@
         "documentation": {}
     },
     {
+        "label": "UserFullDetailsSerializer",
+        "kind": 6,
+        "importPath": "Users.serializers",
+        "description": "Users.serializers",
+        "peekOfCode": "class UserFullDetailsSerializer(serializers.ModelSerializer):\n    user_details = serializers.SerializerMethodField(read_only = True)\n    def get_user_details(self, obj):\n        user_details = obj.user_details\n        return UserDetailSerializer(user_details, context = self.context).data         \n    class Meta :\n        model = User\n        fields = ['email', 'user_details', ]\nclass FollowUnFollowSerializer(serializers.ModelSerializer):\n    user = UserFullDetailsSerializer()",
+        "detail": "Users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FollowUnFollowSerializer",
+        "kind": 6,
+        "importPath": "Users.serializers",
+        "description": "Users.serializers",
+        "peekOfCode": "class FollowUnFollowSerializer(serializers.ModelSerializer):\n    user = UserFullDetailsSerializer()\n    follower = UserFullDetailsSerializer()\n    class Meta :\n        model = Follow\n        fields = '__all__'",
+        "detail": "Users.serializers",
+        "documentation": {}
+    },
+    {
         "label": "get_tokens_for_user",
         "kind": 2,
         "importPath": "Users.serializers",
@@ -1504,11 +2366,29 @@
         "documentation": {}
     },
     {
+        "label": "create_like_ping",
+        "kind": 2,
+        "importPath": "Users.signals",
+        "description": "Users.signals",
+        "peekOfCode": "def create_like_ping(instance, **kwargs):\n    Ping.objects.create(\n        user = instance.user,\n        user_by = instance.follower,\n        redirect_path = 'p',\n        label = f\"{instance.follower.user_details.nick_name} Started following you\"\n    )\n@receiver(pre_delete, sender=Follow)\ndef create_like_ping(instance, **kwargs):\n    Ping.objects.create(",
+        "detail": "Users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "create_like_ping",
+        "kind": 2,
+        "importPath": "Users.signals",
+        "description": "Users.signals",
+        "peekOfCode": "def create_like_ping(instance, **kwargs):\n    Ping.objects.create(\n        user = instance.user,\n        user_by = instance.follower,\n        redirect_path = 'p',\n        label = f\"{instance.follower.user_details.nick_name} Unfollowed you\"\n    )",
+        "detail": "Users.signals",
+        "documentation": {}
+    },
+    {
         "label": "urlpatterns",
         "kind": 5,
         "importPath": "Users.urls",
         "description": "Users.urls",
-        "peekOfCode": "urlpatterns = [\n    path('register', RegisterView.as_view()),\n    path('user_details', UserDetailAddView.as_view()),\n    path('login', LoginView.as_view()),\n    path('logout', TokenBlacklistView.as_view()),\n    path('token/refresh/', TokenRefreshView.as_view()),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('register', RegisterView.as_view()),\n    path('user_details', UserDetailAddView.as_view()),\n    path('login', LoginView.as_view()),\n    path('logout', TokenBlacklistView.as_view()),\n    path('token/refresh/', TokenRefreshView.as_view()),\n    ## follows and stats paths\n    path('follow-unfollow/<email>',FollowUnFollowView.as_view()),\n    path('user-stats-count/<email>', UserStatsCountView.as_view()),\n    path('user-followers/<email>', UserFollowersView.as_view()),",
         "detail": "Users.urls",
         "documentation": {}
     },
@@ -1526,7 +2406,7 @@
         "kind": 6,
         "importPath": "Users.views",
         "description": "Users.views",
-        "peekOfCode": "class RegisterView(CreateAPIView):\n    serializer_class = UserRegisterSerializer\n    queryset = User.objects.all()\n    authentication_classes = []\nclass UserDetailAddView(CreateAPIView):\n    authentication_classes = []\n    queryset = User.objects.all()\n    serializer_class = UserDetailSerializer",
+        "peekOfCode": "class RegisterView(CreateAPIView):\n    serializer_class = UserRegisterSerializer\n    queryset = User.objects.all()\n    authentication_classes = []\nclass UserDetailAddView(CreateAPIView):\n    authentication_classes = []\n    queryset = User.objects.all()\n    serializer_class = UserDetailSerializer\nclass FollowUnFollowView(UpdateAPIView):\n    queryset = Follow.objects.all()",
         "detail": "Users.views",
         "documentation": {}
     },
@@ -1535,7 +2415,43 @@
         "kind": 6,
         "importPath": "Users.views",
         "description": "Users.views",
-        "peekOfCode": "class UserDetailAddView(CreateAPIView):\n    authentication_classes = []\n    queryset = User.objects.all()\n    serializer_class = UserDetailSerializer",
+        "peekOfCode": "class UserDetailAddView(CreateAPIView):\n    authentication_classes = []\n    queryset = User.objects.all()\n    serializer_class = UserDetailSerializer\nclass FollowUnFollowView(UpdateAPIView):\n    queryset = Follow.objects.all()\n    serializer_class = FollowUnFollowSerializer\n    def update(self, request, email):\n        user = User.objects.get(email=email)\n        follower = request.user",
+        "detail": "Users.views",
+        "documentation": {}
+    },
+    {
+        "label": "FollowUnFollowView",
+        "kind": 6,
+        "importPath": "Users.views",
+        "description": "Users.views",
+        "peekOfCode": "class FollowUnFollowView(UpdateAPIView):\n    queryset = Follow.objects.all()\n    serializer_class = FollowUnFollowSerializer\n    def update(self, request, email):\n        user = User.objects.get(email=email)\n        follower = request.user\n        try: \n            Follow.objects.get().delete()\n        except Follow.DoesNotExist:\n            Follow.objects.create(user=user, follower=follower)",
+        "detail": "Users.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserStatsCountView",
+        "kind": 6,
+        "importPath": "Users.views",
+        "description": "Users.views",
+        "peekOfCode": "class UserStatsCountView(APIView):\n    def get_is_following_by_current_user(self, request, user):\n        current_user = request.user\n        return user.user_followers.filter(follower = current_user).exists()\n    def get_is_follower_to_current_user(self, request, user):\n        current_user = request.user\n        return current_user.user_followers.filter(follower = user).exists()\n    def get(self, request, email):\n        if email is None or email == '':\n            user = request.user",
+        "detail": "Users.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserFollowersView",
+        "kind": 6,
+        "importPath": "Users.views",
+        "description": "Users.views",
+        "peekOfCode": "class UserFollowersView(APIView):\n    def get(self, request, email):\n        if email is None:\n            user = request.user\n        user = User.objects.get(email=email)\n        followers = user.user_followers.all()\n        data = FollowUnFollowSerializer(followers, many = True).data,\n        return Response(data, 200)\nclass UserFollowingsView(APIView):\n    def get(self, request, email):",
+        "detail": "Users.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserFollowingsView",
+        "kind": 6,
+        "importPath": "Users.views",
+        "description": "Users.views",
+        "peekOfCode": "class UserFollowingsView(APIView):\n    def get(self, request, email):\n        if email is None:\n            user = request.user\n        user = User.objects.get(email=email)\n        followings = user.user_followings.all()\n        data = FollowUnFollowSerializer(followings, many = True).data,\n        return Response(data, 200)",
         "detail": "Users.views",
         "documentation": {}
     },

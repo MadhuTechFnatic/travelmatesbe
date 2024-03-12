@@ -24,6 +24,7 @@ urlpatterns = [
     path('api/users/', include('Users.urls')),
     path('api/',include('Trips.urls')),
     path('api/explore/',include('Explore.urls')),
+    path('api/extra/',include('Extra.urls')),
     path('fake_data/',include('FakeDataGenarator.urls')),
 ]
 

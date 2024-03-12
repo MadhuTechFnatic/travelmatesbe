@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'Trips',
     'Users',
     'Explore',
+    'Extra',
 
     #Fake data
     'FakeDataGenarator'
@@ -73,6 +74,7 @@ CORS_ALLOW_METHODS = (
     "GET",
     "OPTIONS",
     "PATCH",
+    "PUT",
     "POST",
 )
 
