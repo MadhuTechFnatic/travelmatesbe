@@ -3,7 +3,7 @@ import django.contrib.humanize.templatetags.humanize
 import django.db
 import humanize
 from rest_framework import serializers
-from .models import Follow, User, UserDetail
+from .models import Follow, User, UserDetail, UserStatus
 from rest_framework_simplejwt.tokens import RefreshToken
 
 def get_tokens_for_user(user):
@@ -17,6 +17,17 @@ class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         exclude = ['password']
+
+class UserStatusSerializer(serializers.ModelSerializer):
+    logout_at = serializers.SerializerMethodField(read_only = True)
+    
+    def get_logout_at(self,obj):
+        return humanize.naturaltime(obj.logout_at)
+    
+    class Meta:
+        model = UserStatus
+        exclude = ['id']
+
 
 class UserLoginSerializer(serializers.Serializer):
     email = serializers.EmailField(required=True)
@@ -51,15 +62,21 @@ class UserDetailSerializer(serializers.ModelSerializer):
     
     
     def get_is_following_by_current_user(self, obj):
-        current_user = self.context['request'].user
-        user = obj.user
-        return user.user_followers.filter(follower = current_user).exists()
-        
+        try:
+            current_user = self.context['request'].user
+            user = obj.user
+            return user.user_followers.filter(follower = current_user).exists()
+        except:
+            return {}
+                    
     def get_is_follower_to_current_user(self, obj):
-        current_user = self.context['request'].user
-        user = obj.user
-        return current_user.user_followers.filter(follower = user).exists()
-    
+        try:
+            current_user = self.context['request'].user
+            user = obj.user
+            return current_user.user_followers.filter(follower = user).exists()
+        except:
+             return {} 
+                
     class Meta:
         model = UserDetail
         fields = '__all__'
@@ -69,11 +86,12 @@ class UserRegisterSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        fields = ['email', 'password', 'nick_name']
+        fields = ['email', 'password']
 
     def create(self, validated_data):
         password = validated_data.pop('password')
         user = User.objects.create(**validated_data)
+        UserStatus.objects.create(user = user)
         user.set_password(password)
         user.save()
         return user
@@ -97,3 +115,4 @@ class FollowUnFollowSerializer(serializers.ModelSerializer):
     class Meta :
         model = Follow
         fields = '__all__'
+        

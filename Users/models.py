@@ -1,3 +1,4 @@
+from typing import Iterable
 from django.db import models
 from helper.models import Creation, UIID
 from helper.validations import validate_image_dimensions, validate_image_size
@@ -24,6 +25,12 @@ class User(AbstractBaseUser, PermissionsMixin):
         return self.email
 
 
+class UserStatus(models.Model):
+    user = models.OneToOneField(User, related_name = 'user_status', to_field = 'email', on_delete = models.CASCADE)
+    is_online = models.BooleanField(default=False)
+    logout_at = models.DateTimeField(auto_now = True)    
+
+
 class UserDetail(Creation):
     user = models.OneToOneField(User, related_name = 'user_details', to_field = 'email', on_delete = models.CASCADE)
     nick_name = models.CharField(max_length=50, null=True, blank=True)
@@ -43,4 +50,5 @@ class UserDetail(Creation):
 class Follow(Creation, UIID):
     user = models.ForeignKey(User, related_name = 'user_followers', to_field = 'email', on_delete = models.CASCADE)
     follower = models.ForeignKey(User, related_name = 'user_followings', to_field = 'email', on_delete = models.CASCADE)
+
 

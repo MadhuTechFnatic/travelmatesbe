@@ -116,7 +116,7 @@ class TripRequestView(ListCreateAPIView):
    
     def get(self, request, pk):
         trip = Trip.objects.get(pk=pk)
-        requests = trip.trip_requests.all()
+        requests = trip.trip_requests.filter(is_accepted=False)
         data = self.get_serializer(requests, many = True).data 
         return Response(data, 200)     
     
@@ -139,7 +139,7 @@ class TripRequestAcceptRejectView(UpdateAPIView):
             trip_request.trip.connected_users.add(trip_request.user)
             trip_request.save()
             return Response({}, 202)
-        request.delete()
+        trip_request.delete()
         return Response({}, 204)
     
     

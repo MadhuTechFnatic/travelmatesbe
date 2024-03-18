@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
+from Users.consumers import UserStatusConsumer
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,6 +27,10 @@ urlpatterns = [
     path('api/explore/',include('Explore.urls')),
     path('api/extra/',include('Extra.urls')),
     path('fake_data/',include('FakeDataGenarator.urls')),
+]
+
+ws_urlpatterns = [
+     path('ws/user-statuses', UserStatusConsumer.as_asgi())
 ]
 
 

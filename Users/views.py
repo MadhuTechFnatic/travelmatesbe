@@ -3,7 +3,7 @@ from rest_framework.generics import CreateAPIView, UpdateAPIView, ListAPIView
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework import status
-from Users.models import User, Follow
+from Users.models import Follow, User, UserDetail
 from Trips.serializers import TripSerializer
 from .serializers import (FollowUnFollowSerializer, UserDetailSerializer, UserLoginSerializer,
     UserRegisterSerializer)
@@ -28,7 +28,7 @@ class RegisterView(CreateAPIView):
     
 class UserDetailAddView(CreateAPIView):
     authentication_classes = []
-    queryset = User.objects.all()
+    queryset = UserDetail.objects.all()
     serializer_class = UserDetailSerializer
     
     

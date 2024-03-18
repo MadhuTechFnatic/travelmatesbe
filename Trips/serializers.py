@@ -132,6 +132,11 @@ class TripRequestSerializer(serializers.ModelSerializer):
             self.fields['user'] = UserFullDetailsSerializer(context=context)
     
     user = UserFullDetailsSerializer(read_only = True)
+    trip = TripSerializer(read_only=True)
+    created_at = serializers.SerializerMethodField(read_only = True)
+
+    def get_created_at(self, obj):
+        return humanize.naturaltime(obj.created_at)
     
     class Meta:
         fields = '__all__'
